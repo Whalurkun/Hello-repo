@@ -1,2 +1,2 @@
 # Hello-repo
-This is mainy a test, but might turn into something cool
+This is mainly a test, but might turn into something cool
